@@ -10,7 +10,7 @@ html {
 }
 
 body{
-    background: linear-gradient(to left, #560bad, #8e60c4);
+    background: linear-gradient(to left,#8e60c4 ,#560bad);
     height: 100vh;
     width: 100vw;
 }
